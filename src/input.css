@@ -5,8 +5,8 @@
     --font-roboto: "Roboto", serif, sans-serif;
 }
 @layer components{
-    .circle{
+    /* .circle{
         height: 20rem;
         width: 20rem;
-    }
+    } */
 }
